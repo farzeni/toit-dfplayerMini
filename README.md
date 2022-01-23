@@ -1,6 +1,6 @@
 # DFPlayerMini Toit Driver
 
-A UART interface to the [DFPlayerMini](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299#target_6) MP3 module.
+A UART interface to the [DFPlayerMini](https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299#target_6) MP3 module for the ESP32 [Toit framework](https://toit.io/)
 
 The DFPlayer Mini MP3 Player is a small and low price MP3 module with an simplified output directly to the speaker. The module can be used as a stand alone module with attached battery, speaker and push buttons or used in combination with a microcontroller with RX/TX capabilities.
 
