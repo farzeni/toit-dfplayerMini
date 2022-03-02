@@ -18,10 +18,10 @@ tx = 17, rx = 16
 
 ## Installation
 
-This package is not yet published on pkg.toit.io. As such it is best to simply install it as a local package:
+This package can be installed with
 
 ```
-toit.pkg install --name=dfplayermini --local <PATH_TO_HOST_PACKAGE>
+toit pkg install github.com/farzeni/toit-dfplayerMini
 ```
 
 where `<PATH_TO_HOST_PACKAGE>` is the folder containing this README.
